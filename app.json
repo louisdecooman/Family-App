@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Family App",
+    "slug": "family-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.louisdecooman.familyapp" },
+    "android": { "package": "com.louisdecooman.familyapp" }
+  }
+}
